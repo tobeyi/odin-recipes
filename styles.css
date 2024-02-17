@@ -1,6 +1,10 @@
+/* styling for entire website */
+
 body {
     font-family: Verdana, sans-serif;
 }
+
+/* index.html styling */
 
 #main-heading {
     background-color: green;
@@ -12,3 +16,9 @@ body {
 .recipes {
     font-size: 24px; 
 }
+
+/* lasagna.html styling */
+
+/* chickenlegs.html styling */
+
+/* sirloin.html styling */
